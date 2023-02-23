@@ -1,0 +1,20 @@
+.list {
+  list-style: none;
+  margin-left: 30px;
+  width: 900px;
+  margin-bottom: 30px;
+}
+
+.title {
+  margin-top: 20px;
+  font-weight: 600;
+  font-style: bold;
+}
+
+.text {
+  font-weight: 400;
+  margin-top: 10px;
+  line-height: 1.36;
+  color: rgb(19, 28, 19);
+  font-style: italic;
+}

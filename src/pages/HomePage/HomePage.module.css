@@ -1,0 +1,16 @@
+.wrapper {
+  margin-top: 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.title {
+  align-content: center;
+  margin-bottom: 20px;
+}
+
+p {
+  font-size: medium;
+}
