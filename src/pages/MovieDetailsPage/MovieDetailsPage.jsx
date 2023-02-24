@@ -8,7 +8,6 @@ import {
 } from 'react-router-dom';
 import { fetchMovieDetails } from 'shared/services/moviesApi';
 import { imgUrl } from 'shared/services/moviesApi';
-import Button from 'shared/components/Button/Button';
 
 import css from './MovieDetailsPage.module.css';
 
